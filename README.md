@@ -10,8 +10,9 @@ This page is for my projects.
 3. 5 + 5 = 55
 ```
 | Tables | are | cool |
-| bala | bla | |bla|
-| blub | blub |blub|
+|--------|-----|------|
+| bala | bla   |bla   |
+| blub | blub  |blu   |
 
 
 
