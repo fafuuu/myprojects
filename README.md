@@ -9,7 +9,9 @@ This page is for my projects.
 2. blablabla
 3. 5 + 5 = 55
 ```
-
+| Tables | are | cool |
+| bala | bla | |bla|
+| blub | blub |blub|
 
 
 
